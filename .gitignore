@@ -1,0 +1,6 @@
+# Segredos: nunca versionar
+.env
+.env.*
+!.env.example
+
+.claude/
