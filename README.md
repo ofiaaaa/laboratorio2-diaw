@@ -335,7 +335,7 @@ O front-end não tem testes automatizados. Seus fluxos foram verificados manualm
 
 | Nome | GitHub |
 | :--- | :--- |
-| *Preencha com o seu nome* | *Preencha com o seu usuário* |
+| *Sofia Vassalo de Andrade* | *ofiaaaa* |
 
 ---
 
